@@ -18,8 +18,7 @@ License
 Demo
 
 You can see a live demo of the application here:
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
-(Replace YOUR_USERNAME and YOUR_REPO_NAME with your actual GitHub username and repository name)
+https://whaleeeyyyyy.github.io/Simple-Weather-App/
 
 
 Features
